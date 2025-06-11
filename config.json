@@ -1,0 +1,7 @@
+{
+    "token" : "token",
+    "dbIP"  : "ip_adresa_SQL_databáze",
+    "dbUser": "přihlašovací jméno k DB",
+    "dbPass": "přihlašovací heslo k DB",
+    "dbName": "jméno užívané databáze"
+}

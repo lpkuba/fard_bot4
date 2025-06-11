@@ -1,0 +1,11 @@
+{
+  "name": "fard-bot-4",
+  "version": "0.0.1",
+  "description": "New discord bot that should be able to handle basic \"reservations\" as a form of easier event manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dc: lpkuba",
+  "license": "ISC"
+}
