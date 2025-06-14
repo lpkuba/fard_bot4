@@ -32,7 +32,7 @@ module.exports = {
             else{
             database.query(`SELECT name FROM akce WHERE akceId = ${akceId}`, [], function (err, results, fields) {
                 if(err) throw err;
-                interaction.reply(`Úspěšně vytvořena registrace na akci **${results[0].name}** pro uživatele <@${user.id}>! ✅`);
+                interaction.reply(`Úspěšně vytvořena registrace na akci **'${results[0].name}'** pro uživatele <@${user.id}>! ✅`);
             })  
         };
     })
